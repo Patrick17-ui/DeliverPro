@@ -1,4 +1,4 @@
-# Trike — application de gestion des livraisons
+# Deliver Pro — application de gestion des livraisons
 
 Application web complète (frontend + backend) pour piloter l'activité : livraisons, produits,
 salle de commande, caisse, clients, rapports, utilisateurs et paramètres, avec connexion par

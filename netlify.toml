@@ -1,0 +1,7 @@
+[build]
+  command = "bun run build"
+  publish = "dist"
+
+[dev]
+  command = "bun run dev"
+  port = 3000
